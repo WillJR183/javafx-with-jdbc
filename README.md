@@ -19,4 +19,9 @@ Para executar a aplicação é necessário:
 
 # 📎 Referências
 
-Loading . . .
+* [Udemy - Java Completo com Prof. Nélio Alves](https://www.udemy.com/course/java-curso-completo/)
+* [Interface Initializable](https://docs.oracle.com/javase/8/javafx/api/javafx/fxml/Initializable.html)
+* Stackoverflow
+  * [Delete Button em cada linha de um tableview](https://stackoverflow.com/questions/32282230/fxml-javafx-8-tableview-make-a-delete-button-in-each-row-and-delete-the-row-a) 
+  * [Formatando os dados de um tableview](https://stackoverflow.com/questions/47484280/format-of-date-in-the-javafx-tableview)
+  * [Date Picker com formato de valor específico](https://stackoverflow.com/questions/26831978/javafx-datepicker-getvalue-in-a-specific-format)
